@@ -15,10 +15,10 @@ title: Fatin Idris's Portfolio # This is what shows up in the tab of the browser
 name: Norfatin Hazirah Mohd Idris
 headline: headline message
 description:  >- # dont remove this line. this will ignore all new lines until the next section
-  'A mechanical engineering graduate passionate about innovation and technology.'
+  A mechanical engineering graduate passionate about innovation and technology.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar.png
 
 
 # Link your resume
@@ -31,7 +31,7 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: fatinidris    # https://www.linkedin.com/in/fatin-04-20/ 
   github:     # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -39,7 +39,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   youtube:           # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
-  email:           # https://bsky.app/profile/{your url slug}
+  email: norfatinhazirahmohdidris@yahoo.com          # Replace with your actual email address
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
