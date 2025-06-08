@@ -12,8 +12,8 @@ title: Fatin Idris's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: Norfatin Hazirah Mohd Idris
-headline: headline message
+name: Fatin Idris
+headline: Fresh Mechanical Precision Engineer Graduate
 description:  >- # dont remove this line. this will ignore all new lines until the next section
   A mechanical engineering graduate passionate about innovation and technology.
 
@@ -31,7 +31,7 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: fatinidris    # https://www.linkedin.com/in/fatin-04-20/ 
   email: norfatinhazirahmohdidris@yahoo.com          # Replace with your actual email address
-  github:     # https://github.com/{your url slug} 
+  github: remedyyyyyy    # https://github.com/{remedyyyyyy} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
