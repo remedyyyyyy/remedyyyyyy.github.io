@@ -94,9 +94,9 @@ colors: # this is the basic theme
   text: "#2f4156"
   border: "#c8d9e6"
   link: "#567c8d"
-  highlight: "#567c8d"
+  highlight: "#ffffff"
   background: "#f5efeb"
-  light_background: "#ffffff"
+  light_background: "#dddddd"
 
 # A few examples. 
 basic theme:
