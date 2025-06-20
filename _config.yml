@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Pastel Dream Theme
-  text: "#5E6C7D"        # A muted, deep blue-grey for readability
-  border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
-  link: "#A8DADC"        # A gentle, soft teal for links
-  highlight: "#B9E1DD"   # A slightly lighter, minty highlight
-  background: "#F2F7FA"  # A very light, almost white, cool background
-  light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
+colors: # Clean & Dynamic Theme
+  text: "#2c3e50"        # A strong, dark blue-grey for clear text
+  border: "#d3dbe0"      # A cool, crisp light grey for borders
+  link: "#2980b9"        # A bright, striking blue for links
+  highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
+  background: "#ffffff"  # Pure white for a sharp contrast
+  light_background: "#f6f8fa" # A very subtle cool off-white
   
 # A few examples. 
 basic theme:
@@ -122,6 +122,14 @@ Fresh & Modern Theme (almost the same as basic theme) :
   highlight: "#2a9d8f"
   background: "#f7fbfa"
   light_background: "#f0f9f7"
+
+  XPastel Dream Theme (Similar to Mint, very pastel-y but the combo ;link isnt great) : 
+  text: "#5E6C7D"        # A muted, deep blue-grey for readability
+  border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
+  link: "#A8DADC"        # A gentle, soft teal for links
+  highlight: "#B9E1DD"   # A slightly lighter, minty highlight
+  background: "#F2F7FA"  # A very light, almost white, cool background
+  light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
 
 Warm & Inviting Theme (Almost same as Mint/Greenish) :
   text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
@@ -154,14 +162,6 @@ Clean & Dynamic Theme (Very Warm, Earthy, Cozy Brownish)) :
   highlight: "#ff4d6d"
   background: "#fff8f8"
   light_background: "#fff5f6"
-
-XPastel Dream Theme (Similar to Warm, earthy tone but the combo ;link isnt great) : 
-  text: "#5E6C7D"        # A muted, deep blue-grey for readability
-  border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
-  link: "#A8DADC"        # A gentle, soft teal for links
-  highlight: "#B9E1DD"   # A slightly lighter, minty highlight
-  background: "#F2F7FA"  # A very light, almost white, cool background
-  light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
 
 Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green): 
   text: "#212121"        # A strong, almost black for excellent readability
