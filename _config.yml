@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 2: Deep Ocean & Mist
-  text: "#000000"         # Classic black for maximum text contrast
-  border: "#b7a7a2"       # The muted rose/taupe for soft, natural borders
-  link: "#91766e"         # The warm dark brown/taupe for prominent links
-  highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
-  background: "#ffffff"   # Pure white for the main background
-  light_background: "#f0ece3" # The light warm beige for subtle alternating sections
+colors: # Palette 4: Desert Bloom
+  text: "#584738"         # The dark brown for strong, earthy text
+  border: "#d2c19e"       # The medium beige for soft, natural borders
+  link: "#b59e7d"         # The muted desert tan for links, subtle and warm
+  highlight: "#ccc148"    # The mustard yellow for a striking, warm highlight!
+  background: "#f1eade"   # The very light cream for the main background
+  light_background: "#d2c19e" # The medium beige for alternating sections
   
 # A few examples. 
 basic theme:
@@ -178,6 +178,15 @@ Warm & Inviting Theme :
   highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
   background: "#FBF8F3"  # A very soft, warm off-white background
   light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
+
+Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) : 
+  text: "#000000"         # Classic black for maximum text contrast
+  border: "#b7a7a2"       # The muted rose/taupe for soft, natural borders
+  link: "#91766e"         # The warm dark brown/taupe for prominent links
+  highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
+  background: "#ffffff"   # Pure white for the main background
+  light_background: "#f0ece3" # The light warm beige for subtle alternating sections
+
 
   custom1 theme:
   text: "#545454"
