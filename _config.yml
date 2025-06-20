@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 6: Vibrant Sunset & Twilight
-  text: "#0c2c47"         # The very dark blue for excellent text readability
-  border: "#e7c9c0"       # The light warm grey for subtle borders
-  link: "#507c97"         # The medium blue-grey for calming links
-  highlight: "#e2a5ad"    # The muted rose/coral for a soft, inviting highlight
-  background: "#e1f2e4"   # The very light mint green for a fresh background
-  light_background: "#e7d3cd" # The light peach for alternating sections, soft contrast
+colors: # Palette 8: Gentle Lavender & Sky (Pastel!)
+  text: "#0b1957"         # The very dark navy for strong, readable text
+  border: "#e9f1ff"       # The very light pastel blue for ultra-soft borders
+  link: "#625d8c"         # The medium lavender-blue for gentle, clickable links
+  highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight
+  background: "#f7f4ed"   # The soft off-white/cream for the main background
+  light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
   
 # A few examples. 
 basic theme:
