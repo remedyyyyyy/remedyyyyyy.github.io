@@ -90,14 +90,14 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 9: Sunny Meadow (Fun & Vibrant!)
-  text: "#8e9545"         # The muted olive green for readable text on bright backgrounds
-  border: "#fffcf5"       # Almost white for nearly invisible, clean borders
-  link: "#b0e952"         # The bright lime green for energetic links!
-  highlight: "#f7f375"    # The bright lemon yellow for super vibrant highlights (or vice versa with link)
-  background: "#fffcf5"   # The almost pure white for the main background
-  light_background: "#dfaea1" # The light terracotta/peach for soft, warm alternating sections
-
+colors: # Palette 10: Bold Contrast & Energy
+  text: "#2b124c"         # The dark purple-blue for strong, readable text
+  border: "#fbe4d8"       # The very light peach for soft, contrasting borders
+  link: "#8c414c"         # The dark muted red for rich links
+  highlight: "#ff002c"    # The bright, pure red for an incredibly vibrant highlight!
+  background: "#fbe4d8"   # The very light peach for the main background
+  light_background: "#ffffff" # Pure white for alternating sections, sharp contrast
+  
 # A few examples. 
 basic theme:
   text: "#1a1c20"
@@ -171,7 +171,6 @@ Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purpl
   background: "#f7f4ed"   # The soft off-white/cream for the main background
   light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
   
-
   pink theme:
   text: "#2d2d2d"
   border: "#f8e2e2"
@@ -195,7 +194,6 @@ Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) :
   highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
   background: "#ffffff"   # Pure white for the main background
   light_background: "#f0ece3" # The light warm beige for subtle alternating sections
-
 
   custom1 theme:
   text: "#545454"
