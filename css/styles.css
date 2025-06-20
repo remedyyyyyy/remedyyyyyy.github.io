@@ -151,7 +151,7 @@ nav .mobile-nav {
     padding: 0 50px;
     margin: 50px 0;
     display: flex;  /* This makes .hero-section a flex container */
-
+    justify-content: center; /* <<< ADD THIS LINE for centering its content */
 
     border: 2px solid var(--border-color);
     border-image: linear-gradient(
@@ -168,6 +168,12 @@ nav .mobile-nav {
     padding: 0;
     gap: 40px;
     border-radius: 8px;
+
+    /* --- ADD THESE LINES for Desktop Centering --- */
+    max-width: 1100px; /* Adjust this value (e.g., 900px, 1000px, 1200px) to control width */
+    width: 100%;       /* Ensures it's responsive and takes full width up to max-width */
+    /* --- End Additions --- */
+
 }
 
 .hero-section .text {
