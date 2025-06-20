@@ -12,7 +12,7 @@ title: Fatin Idris's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: Fatin Idris
+name: Norfatin hazirah Mohd Idris
 headline: Fresh Mechanical Precision Engineer Graduate
 description:  >- # dont remove this line. this will ignore all new lines until the next section
   A mechanical engineering graduate passionate about innovation and technology.
@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 8: Dreamy Lavender Sunset (Pastel!)
-  text: "#0b1957"         # The very dark navy ensures excellent readability on light pastel backgrounds.
-  border: "#e9f3ff"       # The very light, pale blue for incredibly soft, barely-there borders.
-  link: "#426bc2"         # Your vibrant mid-tone blue makes for clear and engaging links.
-  highlight: "#e8d9ed"    # The soft pastel purple provides a delicate yet noticeable highlight.
-  background: "#f7f4ed"   # The light off-white/cream for your calming main background.
-  light_background: "#d2b3db" # The light pastel lavender for alternating sections, adding gentle depth.
+colors: # Palette 9: Vibrant Punch & Calm Bases
+  text: "#374375"         # The dark, muted blue-purple provides strong, elegant text.
+  border: "#babde2"       # The light, muted lavender-blue for soft, clean borders.
+  link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
+  highlight: "#dfaea1"    # The light, soft peach for a warm, gentle highlight.
+  background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
+  light_background: "#babde2" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
   
 # A few examples. 
 basic theme:
@@ -226,6 +226,14 @@ Palette 5 Vintage Serenity (Nice warm brownish tone):
   highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
   background: "#efefe9"   # The very light, off-white for a serene main background.
   light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
+
+Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue)
+  text: "#0b1957"         # The very dark navy ensures excellent readability on light pastel backgrounds.
+  border: "#e9f3ff"       # The very light, pale blue for incredibly soft, barely-there borders.
+  link: "#426bc2"         # Your vibrant mid-tone blue makes for clear and engaging links.
+  highlight: "#e8d9ed"    # The light pastel lavender for alternating sections, adding gentle depth.
+  background: "#f7f4ed"   # The light off-white/cream for your calming main background.
+  light_background: "#d2b3db" # The soft pastel purple provides a delicate yet noticeable highlight.
 
 
   custom1 theme:
