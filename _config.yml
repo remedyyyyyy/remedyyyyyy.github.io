@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Fresh & Modern Theme
-  text: "#333d47"        # A soft charcoal, easy to read
-  border: "#e0e7eb"      # A light, clean grey for subtle lines
-  link: "#3478B2"        # A calming, professional blue
-  highlight: "#2e7d32"   # A deep, subtle green for accents
-  background: "#ffffff"  # Pure white for crispness
-  light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
+colors: # Palette 1: Warm & Gentle Dream
+  text: "#b49ab9"         # A muted purple for main text, soft but readable on light backgrounds
+  border: "#ced1d4"       # A light, cool grey for subtle separators
+  link: "#a5a454"         # The muted olive green stands out nicely for links
+  highlight: "#b49ab9"    # Reusing the muted purple for a gentle highlight, or pick a darker version of it if it needs more pop
+  background: "#faede0"   # Your lightest, warmest color for the primary background
+  light_background: "#f1e5ce" # A slightly deeper warm tone for alternating sections
   
 # A few examples. 
 basic theme:
@@ -107,7 +107,7 @@ basic theme:
   background: "#ffffff"
   light_background: "#f3f5fb"
   
-Fresh & Modern Theme (almost the same as basic theme) :
+Fresh & Modern Theme (almost the same as basic theme with a hint of green) :
   text: "#333d47"        # A soft charcoal, easy to read
   border: "#e0e7eb"      # A light, clean grey for subtle lines
   link: "#3478B2"        # A calming, professional blue
