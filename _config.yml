@@ -107,7 +107,7 @@ basic theme:
   background: "#ffffff"
   light_background: "#f3f5fb"
   
-colors: # Fresh & Modern Theme (almost the same as basic theme)
+Fresh & Modern Theme (almost the same as basic theme) :
   text: "#333d47"        # A soft charcoal, easy to read
   border: "#e0e7eb"      # A light, clean grey for subtle lines
   link: "#3478B2"        # A calming, professional blue
@@ -123,7 +123,7 @@ colors: # Fresh & Modern Theme (almost the same as basic theme)
   background: "#f7fbfa"
   light_background: "#f0f9f7"
 
-colors: # Warm & Inviting Theme (Almost same as Mint/Greenish)
+Warm & Inviting Theme (Almost same as Mint/Greenish) :
   text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
   border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
   link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
@@ -139,7 +139,7 @@ lemon theme:
   background: "#fffdf5"
   light_background: "#fff9e6"
 
-colors: # Clean & Dynamic Theme (Very Warm, Earthy, Cozy Brownish))
+Clean & Dynamic Theme (Very Warm, Earthy, Cozy Brownish)) :
   text: "#2c3e50"        # A strong, dark blue-grey for clear text
   border: "#d3dbe0"      # A cool, crisp light grey for borders
   link: "#2980b9"        # A bright, striking blue for links
@@ -155,7 +155,7 @@ colors: # Clean & Dynamic Theme (Very Warm, Earthy, Cozy Brownish))
   background: "#fff8f8"
   light_background: "#fff5f6"
 
-colors: # XPastel Dream Theme (Similar to Warm, earthy tone but the combo ;link isnt great)
+XPastel Dream Theme (Similar to Warm, earthy tone but the combo ;link isnt great) : 
   text: "#5E6C7D"        # A muted, deep blue-grey for readability
   border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
   link: "#A8DADC"        # A gentle, soft teal for links
@@ -163,7 +163,7 @@ colors: # XPastel Dream Theme (Similar to Warm, earthy tone but the combo ;link 
   background: "#F2F7FA"  # A very light, almost white, cool background
   light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
 
-colors: # Energetic & Playful Theme
+Energetic & Playful Theme : 
   text: "#212121"        # A strong, almost black for excellent readability
   border: "#ECEFF1"      # A very light, crisp grey for clean lines
   link: "#FF5722"        # A bold, vibrant orange for links that pop!
