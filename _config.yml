@@ -9,13 +9,11 @@
 
 title: Fatin Idris's Portfolio # This is what shows up in the tab of the browser
 
-
-
 # Hero Section
 name: Norfatin Hazirah Mohd Idris
 short_first_name: Fatin
 headline: Fresh Mechanical Precision Engineer Graduate
-description:  >- # dont remove this line. this will ignore all new lines until the next section
+description: >- # dont remove this line. this will ignore all new lines until the next section
   A mechanical engineering graduate passionate about innovation and technology.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -23,27 +21,27 @@ profile_image: ./assets/images/profile-image/avatar.png
 
 
 # Link your resume
-# You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
+# You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive
 resume-url: ./assets/resume/Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: fatin-04-20    # https://www.linkedin.com/in/fatin-04-20/ 
-  email: norfatinhazirahmohdidris@yahoo.com          # Replace with your actual email address
-  github: remedyyyyyy    # https://github.com/{remedyyyyyy} 
-  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
-  
+  linkedin: fatin-04-20    # https://www.linkedin.com/in/fatin-04-20/
+  email: norfatinhazirahmohdidris@yahoo.com            # Replace with your actual email address
+  github: remedyyyyyy    # https://github.com/{remedyyyyyy}
+  stackoverflow:        # https://stackoverflow.com/users/{your url slug}
+  medium:              # https://medium.com/@{your url slug}
+  x-twitter:    # https://x.com/{your url slug}
+  threads:              # https://threads.net/@{your url slug}
+  instragram:        # https://instagram.com/{your url slug}
+  youtube:              # https://youtube.com/@{your url slug}
+  discord:              # https://discord.com/users/{your url slug}
+  bluesky:              # https://bsky.app/profile/{your url slug}
 
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
+
+# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise.
 skills:
   - category: 3D Modeling
     tools:
@@ -71,35 +69,35 @@ skills:
     tools:
     - GD&T ASME Y14
     - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - PLM (PTC Windchill / Arena)
   - category: PCB Design
     tools:
     - Altium Designer
     - Altium
-    - Eagle 
+    - Eagle
     - KiCad
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
+    - DFMEA / PFMEA
     - Six Sigma methodologies
     - Shain Red-X
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/mkgbzlqa
+formspree-key:    https://formspree.io/f/mkgbzlqa
 
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # Palette 10: Rich Jewel Tones & Contrast
-  text: "#190019"         # The deepest purple/black for maximum impact and readability on lighter backgrounds.
-  border: "#dfb6b2"       # The light, dusty rose for soft, elegant borders.
-  link: "#2b124c"         # Your dark, rich purple for clickable links, luxurious and clear.
+  text: "#190019"            # The deepest purple/black for maximum impact and readability on lighter backgrounds.
+  border: "#dfb6b2"        # The light, dusty rose for soft, elegant borders.
+  link: "#2b124c"            # Your dark, rich purple for clickable links, luxurious and clear.
   highlight: "#854f6c"    # The muted plum/wine for a sophisticated highlight.
-  background: "#fbe4d8"   # The very light, warm peach for a soft, inviting main background.
+  background: "#fbe4d8"    # The very light, warm peach for a soft, inviting main background.
   light_background: "#dfb6b2" # The light, dusty rose for alternating sections, creating a beautiful shift.
-  
-# A few examples. 
+
+# A few examples.
 basic theme:
   text: "#1a1c20"
   border: "#ddd"
@@ -107,12 +105,12 @@ basic theme:
   highlight: "#0c0cf2"
   background: "#ffffff"
   light_background: "#f3f5fb"
-  
+
 Fresh & Modern Theme (almost the same as basic theme with a hint of green) :
   text: "#333d47"        # A soft charcoal, easy to read
   border: "#e0e7eb"      # A light, clean grey for subtle lines
   link: "#3478B2"        # A calming, professional blue
-  highlight: "#2e7d32"   # A deep, subtle green for accents
+  highlight: "#2e7d32"    # A deep, subtle green for accents
   background: "#ffffff"  # Pure white for crispness
   light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
 
@@ -120,26 +118,26 @@ Clean & Dynamic Theme (almost like basic with a hint of red)) :
   text: "#2c3e50"        # A strong, dark blue-grey for clear text
   border: "#d3dbe0"      # A cool, crisp light grey for borders
   link: "#2980b9"        # A bright, striking blue for links
-  highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
+  highlight: "#e74c3c"    # A vibrant, energetic red for highlights/attention
   background: "#ffffff"  # Pure white for a sharp contrast
   light_background: "#f6f8fa" # A very subtle cool off-white
 
-Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green): 
+Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green):
   text: "#212121"        # A strong, almost black for excellent readability
   border: "#ECEFF1"      # A very light, crisp grey for clean lines
   link: "#FF5722"        # A bold, vibrant orange for links that pop!
-  highlight: "#4CAF50"   # A fresh, bright green for accents
+  highlight: "#4CAF50"    # A fresh, bright green for accents
   background: "#ffffff"  # Pure white for maximum contrast
   light_background: "#F5F5F5" # A subtle, light grey for section breaks
 
-Palette 2 Deep Ocean & Mist ( very basic, no other hint) : 
-  text: "#2f4156"         # The darkest blue-grey for main text, excellent readability
-  border: "#8c8d8b"       # A subtle medium grey for defining borders
-  link: "#567c8d"         # The medium blue-grey for links, visible yet harmonious
+Palette 2 Deep Ocean & Mist ( very basic, no other hint) :
+  text: "#2f4156"          # The darkest blue-grey for main text, excellent readability
+  border: "#8c8d8b"        # A subtle medium grey for defining borders
+  link: "#567c8d"          # The medium blue-grey for links, visible yet harmonious
   highlight: "#567c8d"    # Reusing the medium blue-grey for a calm highlight
-  background: "#ffffff"   # Pure white for a crisp primary background
+  background: "#ffffff"    # Pure white for a crisp primary background
   light_background: "#f0f0f0" # The very light grey for alternating sections, subtle contrast
-  
+
   mint theme:
   text: "#2c3333"
   border: "#e0f2ef"
@@ -148,14 +146,14 @@ Palette 2 Deep Ocean & Mist ( very basic, no other hint) :
   background: "#f7fbfa"
   light_background: "#f0f9f7"
 
-  XPastel Dream Theme (Similar to Mint, very pastel-y but the combo ;link isnt great) : 
+  XPastel Dream Theme (Similar to Mint, very pastel-y but the combo ;link isnt great) :
   text: "#5E6C7D"        # A muted, deep blue-grey for readability
   border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
   link: "#A8DADC"        # A gentle, soft teal for links
-  highlight: "#B9E1DD"   # A slightly lighter, minty highlight
+  highlight: "#B9E1DD"    # A slightly lighter, minty highlight
   background: "#F2F7FA"  # A very light, almost white, cool background
   light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
- 
+
 lemon theme:
   text: "#2d2926"
   border: "#f7f3e3"
@@ -165,13 +163,13 @@ lemon theme:
   light_background: "#fff9e6"
 
 Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purple) :
-  text: "#0b1957"         # The very dark navy for strong, readable text
-  border: "#e9f1ff"       # The very light pastel blue for ultra-soft borders
-  link: "#625d8c"         # The medium lavender-blue for gentle, clickable links
+  text: "#0b1957"          # The very dark navy for strong, readable text
+  border: "#e9f1ff"        # The very light pastel blue for ultra-soft borders
+  link: "#625d8c"          # The medium lavender-blue for gentle, clickable links
   highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight
-  background: "#f7f4ed"   # The soft off-white/cream for the main background
+  background: "#f7f4ed"    # The soft off-white/cream for the main background
   light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
-  
+
   pink theme:
   text: "#2d2d2d"
   border: "#f8e2e2"
@@ -181,67 +179,67 @@ Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purpl
   light_background: "#fff5f6"
 
 Palette 10 Bold Contrast & Energy (Red-based/ muted red) :
-  text: "#2b124c"         # The dark purple-blue for strong, readable text
-  border: "#fbe4d8"       # The very light peach for soft, contrasting borders
-  link: "#8c414c"         # The dark muted red for rich links
+  text: "#2b124c"          # The dark purple-blue for strong, readable text
+  border: "#fbe4d8"        # The very light peach for soft, contrasting borders
+  link: "#8c414c"          # The dark muted red for rich links
   highlight: "#ff002c"    # The bright, pure red for an incredibly vibrant highlight!
-  background: "#fbe4d8"   # The very light peach for the main background
+  background: "#fbe4d8"    # The very light peach for the main background
   light_background: "#ffffff" # Pure white for alternating sections, sharp contrast
 
 Warm & Inviting Theme :
   text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
   border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
   link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
-  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
+  highlight: "#A1826A"    # A slightly lighter, warm brown for highlights
   background: "#FBF8F3"  # A very soft, warm off-white background
   light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
 
-Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) : 
-  text: "#000000"         # Classic black for maximum text contrast
-  border: "#b7a7a2"       # The muted rose/taupe for soft, natural borders
-  link: "#91766e"         # The warm dark brown/taupe for prominent links
+Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) :
+  text: "#000000"          # Classic black for maximum text contrast
+  border: "#b7a7a2"        # The muted rose/taupe for soft, natural borders
+  link: "#91766e"          # The warm dark brown/taupe for prominent links
   highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
-  background: "#ffffff"   # Pure white for the main background
+  background: "#ffffff"    # Pure white for the main background
   light_background: "#f0ece3" # The light warm beige for subtle alternating sections
 
 Palette 2 Cool Breeze & Mountain Peaks (White BG with Nude accent and a hint of blue):
-  text: "#2f4156"         # The dark blue-grey ensures excellent readability for all your text.
-  border: "#c8d9e6"       # The light, cool blue-grey creates very soft and clean border lines.
-  link: "#567c8d"         # Your medium cool blue-grey makes for distinct yet harmonious links.
+  text: "#2f4156"          # The dark blue-grey ensures excellent readability for all your text.
+  border: "#c8d9e6"        # The light, cool blue-grey creates very soft and clean border lines.
+  link: "#567c8d"          # Your medium cool blue-grey makes for distinct yet harmonious links.
   highlight: "#567c8d"    # Reusing the medium blue-grey provides a consistent, calming highlight for interactions.
-  background: "#ffffff"   # A crisp pure white for your primary background, offering maximum clarity.
+  background: "#ffffff"    # A crisp pure white for your primary background, offering maximum clarity.
   light_background: "#f5efeb" # The very light, warm off-white gives a subtle, inviting shift for sections.
 
 Palette 3 Modern Contrast & Earthy Comfort (very similar to above):
-  text: "#000000"         # Strong black text for ultimate readability and a bold statement.
-  border: "#b7a7a9"       # The muted dusty rose/taupe makes for gentle, sophisticated separators.
-  link: "#91766e"         # Your warm, rich brown is a lovely, inviting color for links.
+  text: "#000000"          # Strong black text for ultimate readability and a bold statement.
+  border: "#b7a7a9"        # The muted dusty rose/taupe makes for gentle, sophisticated separators.
+  link: "#91766e"          # Your warm, rich brown is a lovely, inviting color for links.
   highlight: "#91766e"    # Using the same warm brown for highlights keeps the theme cohesive and elegant.
-  background: "#ffffff"   # Pure white for a clean, bright main background.
+  background: "#ffffff"    # Pure white for a clean, bright main background.
   light_background: "#f6ece3" # The light warm beige for subtle shifts between sections, adding warmth.
 
 Palette 5 Vintage Serenity (Nice warm brownish tone):
-  text: "#223030"         # The very dark grey-green offers strong, natural-feeling text contrast.
-  border: "#959d90"       # The muted green-grey creates subtle, harmonious borders.
-  link: "#523d35"         # The dark, desaturated brown for links that feel grounded and distinct.
+  text: "#223030"          # The very dark grey-green offers strong, natural-feeling text contrast.
+  border: "#959d90"        # The muted green-grey creates subtle, harmonious borders.
+  link: "#523d35"          # The dark, desaturated brown for links that feel grounded and distinct.
   highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
-  background: "#efefe9"   # The very light, off-white for a serene main background.
+  background: "#efefe9"    # The very light, off-white for a serene main background.
   light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
 
- Palette 9 Vibrant Punch & Calm Bases (kinda digging this! cream BG with blue and brown accent) : 
-  text: "#374375"         # The dark, muted blue-purple provides strong, elegant text.
-  border: "#babde2"       # The light, muted lavender-blue for soft, clean borders.
-  link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
+Palette 9 Vibrant Punch & Calm Bases (kinda digging this! cream BG with blue and brown accent) :
+  text: "#374375"          # The dark, muted blue-purple provides strong, elegant text.
+  border: "#babde2"        # The light, muted lavender-blue for soft, clean borders.
+  link: "#895159"          # Your dark, muted berry red makes for distinct and inviting links.
   highlight: "#ba4020"    # The light, soft peach for a warm, gentle highlight.
-  background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
+  background: "#fffcf5"    # The almost pure white for a crisp, bright main background.
   light_background: "#cdd0f7" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
-  
-Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue) : 
-  text: "#0b1957"         # The very dark navy ensures excellent readability on light pastel backgrounds.
-  border: "#e9f3ff"       # The very light, pale blue for incredibly soft, barely-there borders.
-  link: "#426bc2"         # Your vibrant mid-tone blue makes for clear and engaging links.
+
+Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue) :
+  text: "#0b1957"          # The very dark navy ensures excellent readability on light pastel backgrounds.
+  border: "#e9f3ff"        # The very light, pale blue for incredibly soft, barely-there borders.
+  link: "#426bc2"          # Your vibrant mid-tone blue makes for clear and engaging links.
   highlight: "#e8d9ed"    # The light pastel lavender for alternating sections, adding gentle depth.
-  background: "#f7f4ed"   # The light off-white/cream for your calming main background.
+  background: "#f7f4ed"    # The light off-white/cream for your calming main background.
   light_background: "#d2b3db" # The soft pastel purple provides a delicate yet noticeable highlight.
 
 
@@ -252,10 +250,6 @@ Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue)
   highlight: "#bd9e89"
   background: "#faede0"
   light_background: "#e4c982"
-  
-
-
-
 
 
 #########################################################################################################
