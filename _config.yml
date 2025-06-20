@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#374375"
-  border: "#000000"
-  link: "#babde2"
-  highlight: "#895159"
-  background: "#fffcf5"
-  light_background: "#dfaea1"
+colors: # Fresh & Modern Theme
+  text: "#333d47"        # A soft charcoal, easy to read
+  border: "#e0e7eb"      # A light, clean grey for subtle lines
+  link: "#3478B2"        # A calming, professional blue
+  highlight: "#2e7d32"   # A deep, subtle green for accents
+  background: "#ffffff"  # Pure white for crispness
+  light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
 
 # A few examples. 
 basic theme:
