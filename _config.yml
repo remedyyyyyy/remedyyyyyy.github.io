@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 2: Cool Breeze & Mountain Peaks
-  text: "#2f4156"         # The dark blue-grey ensures excellent readability for all your text.
-  border: "#c8d9e6"       # The light, cool blue-grey creates very soft and clean border lines.
-  link: "#567c8d"         # Your medium cool blue-grey makes for distinct yet harmonious links.
-  highlight: "#567c8d"    # Reusing the medium blue-grey provides a consistent, calming highlight for interactions.
-  background: "#ffffff"   # A crisp pure white for your primary background, offering maximum clarity.
-  light_background: "#f5efeb" # The very light, warm off-white gives a subtle, inviting shift for sections.
+colors: # Palette 3: Modern Contrast & Earthy Comfort
+  text: "#000000"         # Strong black text for ultimate readability and a bold statement.
+  border: "#b7a7a9"       # The muted dusty rose/taupe makes for gentle, sophisticated separators.
+  link: "#91766e"         # Your warm, rich brown is a lovely, inviting color for links.
+  highlight: "#91766e"    # Using the same warm brown for highlights keeps the theme cohesive and elegant.
+  background: "#ffffff"   # Pure white for a clean, bright main background.
+  light_background: "#f6ece3" # The light warm beige for subtle shifts between sections, adding warmth.
   
 # A few examples. 
 basic theme:
@@ -202,6 +202,15 @@ Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) :
   highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
   background: "#ffffff"   # Pure white for the main background
   light_background: "#f0ece3" # The light warm beige for subtle alternating sections
+
+Palette 2 Cool Breeze & Mountain Peaks (White BG with Nude accent and a hint of blue):
+  text: "#2f4156"         # The dark blue-grey ensures excellent readability for all your text.
+  border: "#c8d9e6"       # The light, cool blue-grey creates very soft and clean border lines.
+  link: "#567c8d"         # Your medium cool blue-grey makes for distinct yet harmonious links.
+  highlight: "#567c8d"    # Reusing the medium blue-grey provides a consistent, calming highlight for interactions.
+  background: "#ffffff"   # A crisp pure white for your primary background, offering maximum clarity.
+  light_background: "#f5efeb" # The very light, warm off-white gives a subtle, inviting shift for sections.
+
 
   custom1 theme:
   text: "#545454"
