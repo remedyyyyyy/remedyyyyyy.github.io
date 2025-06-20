@@ -84,8 +84,7 @@ skills:
     - Shain Red-X
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:    https://formspree.io/f/mkgbzlqa
-
+formspree-key: https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
@@ -164,11 +163,11 @@ lemon theme:
 
 Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purple) :
   text: "#0b1957"          # The very dark navy for strong, readable text
-  border: "#e9f1ff"        # The very light pastel blue for ultra-soft borders
-  link: "#625d8c"          # The medium lavender-blue for gentle, clickable links
-  highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight
-  background: "#f7f4ed"    # The soft off-white/cream for the main background
-  light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
+  border: "#e9f1ff"        # The very light pastel blue for ultra-soft borders.
+  link: "#625d8c"          # The medium lavender-blue for gentle, clickable links.
+  highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight.
+  background: "#f7f4ed"    # The soft off-white/cream for the main background.
+  light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft.
 
   pink theme:
   text: "#2d2d2d"
@@ -179,28 +178,28 @@ Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purpl
   light_background: "#fff5f6"
 
 Palette 10 Bold Contrast & Energy (Red-based/ muted red) :
-  text: "#2b124c"          # The dark purple-blue for strong, readable text
-  border: "#fbe4d8"        # The very light peach for soft, contrasting borders
-  link: "#8c414c"          # The dark muted red for rich links
+  text: "#2b124c"          # The dark purple-blue for strong, readable text.
+  border: "#fbe4d8"        # The very light peach for soft, contrasting borders.
+  link: "#8c414c"          # The dark muted red for rich links.
   highlight: "#ff002c"    # The bright, pure red for an incredibly vibrant highlight!
-  background: "#fbe4d8"    # The very light peach for the main background
-  light_background: "#ffffff" # Pure white for alternating sections, sharp contrast
+  background: "#fbe4d8"    # The very light peach for the main background.
+  light_background: "#ffffff" # Pure white for alternating sections, sharp contrast.
 
 Warm & Inviting Theme :
-  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
-  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
-  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
-  highlight: "#A1826A"    # A slightly lighter, warm brown for highlights
-  background: "#FBF8F3"  # A very soft, warm off-white background
-  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
+  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability.
+  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations.
+  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color.
+  highlight: "#A1826A"    # A slightly lighter, warm brown for highlights.
+  background: "#FBF8F3"  # A very soft, warm off-white background.
+  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections.
 
 Palette 3 Urban Chic & Warm Neutrals (similar to warm, with white background) :
-  text: "#000000"          # Classic black for maximum text contrast
-  border: "#b7a7a2"        # The muted rose/taupe for soft, natural borders
-  link: "#91766e"          # The warm dark brown/taupe for prominent links
-  highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
-  background: "#ffffff"    # Pure white for the main background
-  light_background: "#f0ece3" # The light warm beige for subtle alternating sections
+  text: "#000000"          # Classic black for maximum text contrast.
+  border: "#b7a7a2"        # The muted rose/taupe for soft, natural borders.
+  link: "#91766e"          # The warm dark brown/taupe for prominent links.
+  highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights.
+  background: "#ffffff"    # Pure white for the main background.
+  light_background: "#f0ece3" # The light warm beige for subtle alternating sections.
 
 Palette 2 Cool Breeze & Mountain Peaks (White BG with Nude accent and a hint of blue):
   text: "#2f4156"          # The dark blue-grey ensures excellent readability for all your text.
