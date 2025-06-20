@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 4: Sun-Kissed Desert
-  text: "#584738"         # The dark earthy brown provides excellent readability on light backgrounds.
-  border: "#aaa396"       # The muted warm grey/olive works as a soft, harmonious border color.
-  link: "#b59e7d"         # Your muted sandy tan is a gentle, inviting color for links.
-  highlight: "#cec1a8"    # The light, warm beige offers a subtle yet effective highlight.
-  background: "#f1eada"   # The very light cream is your soft, inviting main background.
-  light_background: "#cec1a8" # The light, warm beige for alternating sections, providing gentle depth.
+colors: # Palette 5: Vintage Serenity
+  text: "#223030"         # The very dark grey-green offers strong, natural-feeling text contrast.
+  border: "#959d90"       # The muted green-grey creates subtle, harmonious borders.
+  link: "#523d35"         # The dark, desaturated brown for links that feel grounded and distinct.
+  highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
+  background: "#efefe9"   # The very light, off-white for a serene main background.
+  light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
   
 # A few examples. 
 basic theme:
