@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Clean & Dynamic Theme
-  text: "#2c3e50"        # A strong, dark blue-grey for clear text
-  border: "#d3dbe0"      # A cool, crisp light grey for borders
-  link: "#2980b9"        # A bright, striking blue for links
-  highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
-  background: "#ffffff"  # Pure white for a sharp contrast
-  light_background: "#f6f8fa" # A very subtle cool off-white
+colors: # Warm & Inviting Theme
+  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
+  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
+  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
+  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
+  background: "#FBF8F3"  # A very soft, warm off-white background
+  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
   
 # A few examples. 
 basic theme:
@@ -114,6 +114,14 @@ Fresh & Modern Theme (almost the same as basic theme) :
   highlight: "#2e7d32"   # A deep, subtle green for accents
   background: "#ffffff"  # Pure white for crispness
   light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
+
+Clean & Dynamic Theme (almost like basic with a hint of red)) :
+  text: "#2c3e50"        # A strong, dark blue-grey for clear text
+  border: "#d3dbe0"      # A cool, crisp light grey for borders
+  link: "#2980b9"        # A bright, striking blue for links
+  highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
+  background: "#ffffff"  # Pure white for a sharp contrast
+  light_background: "#f6f8fa" # A very subtle cool off-white
   
   mint theme:
   text: "#2c3333"
@@ -147,14 +155,6 @@ lemon theme:
   background: "#fffdf5"
   light_background: "#fff9e6"
 
-Clean & Dynamic Theme (Very Warm, Earthy, Cozy Brownish)) :
-  text: "#2c3e50"        # A strong, dark blue-grey for clear text
-  border: "#d3dbe0"      # A cool, crisp light grey for borders
-  link: "#2980b9"        # A bright, striking blue for links
-  highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
-  background: "#ffffff"  # Pure white for a sharp contrast
-  light_background: "#f6f8fa" # A very subtle cool off-white
-  
   pink theme:
   text: "#2d2d2d"
   border: "#f8e2e2"
