@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 1: Soft Autumn Glow
-  text: "#545454"         # A versatile medium dark grey, providing gentle contrast for text.
-  border: "#ced1d4"       # A cool, light grey for subtle and clean lines and separators.
-  link: "#bd9e89"         # Your muted warm brown, a sophisticated color for clickable links.
-  highlight: "#e4c9b2"    # The soft peach/beige works as a gentle highlight, perfect for buttons or accents.
-  background: "#faede0"   # Your lightest, warmest tone for the main backdrop, very soft on the eyes.
-  light_background: "#f1ece5" # A slightly deeper, warm off-white for alternating sections, creating subtle depth.
+colors: # Palette 2: Cool Breeze & Mountain Peaks
+  text: "#2f4156"         # The dark blue-grey ensures excellent readability for all your text.
+  border: "#c8d9e6"       # The light, cool blue-grey creates very soft and clean border lines.
+  link: "#567c8d"         # Your medium cool blue-grey makes for distinct yet harmonious links.
+  highlight: "#567c8d"    # Reusing the medium blue-grey provides a consistent, calming highlight for interactions.
+  background: "#ffffff"   # A crisp pure white for your primary background, offering maximum clarity.
+  light_background: "#f5efeb" # The very light, warm off-white gives a subtle, inviting shift for sections.
   
 # A few examples. 
 basic theme:
