@@ -90,14 +90,14 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Fresh & Modern Theme
-  text: "#333d47"        # A soft charcoal, easy to read
-  border: "#e0e7eb"      # A light, clean grey for subtle lines
-  link: "#3478B2"        # A calming, professional blue
-  highlight: "#2e7d32"   # A deep, subtle green for accents
-  background: "#ffffff"  # Pure white for crispness
-  light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
-
+colors: # Warm & Inviting Theme
+  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
+  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
+  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
+  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
+  background: "#FBF8F3"  # A very soft, warm off-white background
+  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
+  
 # A few examples. 
 basic theme:
   text: "#1a1c20"
@@ -106,6 +106,14 @@ basic theme:
   highlight: "#0c0cf2"
   background: "#ffffff"
   light_background: "#f3f5fb"
+  
+colors: # Fresh & Modern Theme (almost the same as basic theme)
+  text: "#333d47"        # A soft charcoal, easy to read
+  border: "#e0e7eb"      # A light, clean grey for subtle lines
+  link: "#3478B2"        # A calming, professional blue
+  highlight: "#2e7d32"   # A deep, subtle green for accents
+  background: "#ffffff"  # Pure white for crispness
+  light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
   
   mint theme:
   text: "#2c3333"
