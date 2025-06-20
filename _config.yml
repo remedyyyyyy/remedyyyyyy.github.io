@@ -91,12 +91,12 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # Palette 2: Deep Ocean & Mist
-  text: "#2f4156"         # The darkest blue-grey for main text, excellent readability
-  border: "#8c8d8b"       # A subtle medium grey for defining borders
-  link: "#567c8d"         # The medium blue-grey for links, visible yet harmonious
-  highlight: "#567c8d"    # Reusing the medium blue-grey for a calm highlight
-  background: "#ffffff"   # Pure white for a crisp primary background
-  light_background: "#f0f0f0" # The very light grey for alternating sections, subtle contrast
+  text: "#000000"         # Classic black for maximum text contrast
+  border: "#b7a7a2"       # The muted rose/taupe for soft, natural borders
+  link: "#91766e"         # The warm dark brown/taupe for prominent links
+  highlight: "#91766e"    # Reusing the warm dark brown/taupe for highlights
+  background: "#ffffff"   # Pure white for the main background
+  light_background: "#f0ece3" # The light warm beige for subtle alternating sections
   
 # A few examples. 
 basic theme:
@@ -130,6 +130,14 @@ Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint
   highlight: "#4CAF50"   # A fresh, bright green for accents
   background: "#ffffff"  # Pure white for maximum contrast
   light_background: "#F5F5F5" # A subtle, light grey for section breaks
+
+Palette 2 Deep Ocean & Mist ( very basic, no other hint) : 
+  text: "#2f4156"         # The darkest blue-grey for main text, excellent readability
+  border: "#8c8d8b"       # A subtle medium grey for defining borders
+  link: "#567c8d"         # The medium blue-grey for links, visible yet harmonious
+  highlight: "#567c8d"    # Reusing the medium blue-grey for a calm highlight
+  background: "#ffffff"   # Pure white for a crisp primary background
+  light_background: "#f0f0f0" # The very light grey for alternating sections, subtle contrast
   
   mint theme:
   text: "#2c3333"
