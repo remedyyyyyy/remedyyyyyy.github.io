@@ -227,7 +227,7 @@ Palette 5 Vintage Serenity (Nice warm brownish tone):
   background: "#efefe9"   # The very light, off-white for a serene main background.
   light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
 
-Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue)
+Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue) : 
   text: "#0b1957"         # The very dark navy ensures excellent readability on light pastel backgrounds.
   border: "#e9f3ff"       # The very light, pale blue for incredibly soft, barely-there borders.
   link: "#426bc2"         # Your vibrant mid-tone blue makes for clear and engaging links.
