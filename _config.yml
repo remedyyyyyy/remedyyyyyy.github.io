@@ -13,6 +13,7 @@ title: Fatin Idris's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Norfatin Hazirah Mohd Idris
+short_first_name: Fatin
 headline: Fresh Mechanical Precision Engineer Graduate
 description:  >- # dont remove this line. this will ignore all new lines until the next section
   A mechanical engineering graduate passionate about innovation and technology.
@@ -96,7 +97,7 @@ colors: # Palette 9: Vibrant Punch & Calm Bases
   link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
   highlight: "#dfaea1"    # The light, soft peach for a warm, gentle highlight.
   background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
-  light_background: "#babde2" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
+  light_background: "#d2b3db" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
   
 # A few examples. 
 basic theme:
