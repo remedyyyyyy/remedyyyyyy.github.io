@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 5: Vintage Serenity
-  text: "#223030"         # The very dark grey-green offers strong, natural-feeling text contrast.
-  border: "#959d90"       # The muted green-grey creates subtle, harmonious borders.
-  link: "#523d35"         # The dark, desaturated brown for links that feel grounded and distinct.
-  highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
-  background: "#efefe9"   # The very light, off-white for a serene main background.
-  light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
+colors: # Palette 6: Tropical Sunset Energy (Fun & Vibrant!)
+  text: "#543787"         # The deep, rich purple for bold, striking text.
+  border: "#d4e0f0"       # The very light blue-grey for crisp, clean dividers.
+  link: "#7cb8c0"         # Your medium, cool teal makes for engaging, clickable links.
+  highlight: "#feb737"    # The bright, warm orange is a super energetic highlight that truly pops!
+  background: "#ffebae"   # The light, warm yellow/peach for a cheerful main background.
+  light_background: "#a7b5fe" # The light, vibrant purple-blue for alternating sections, adding playful contrast.
   
 # A few examples. 
 basic theme:
@@ -218,6 +218,14 @@ Palette 3 Modern Contrast & Earthy Comfort (very similar to above):
   highlight: "#91766e"    # Using the same warm brown for highlights keeps the theme cohesive and elegant.
   background: "#ffffff"   # Pure white for a clean, bright main background.
   light_background: "#f6ece3" # The light warm beige for subtle shifts between sections, adding warmth.
+
+Palette 5 Vintage Serenity (Nice warm brownish tone):
+  text: "#223030"         # The very dark grey-green offers strong, natural-feeling text contrast.
+  border: "#959d90"       # The muted green-grey creates subtle, harmonious borders.
+  link: "#523d35"         # The dark, desaturated brown for links that feel grounded and distinct.
+  highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
+  background: "#efefe9"   # The very light, off-white for a serene main background.
+  light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
 
 
   custom1 theme:
