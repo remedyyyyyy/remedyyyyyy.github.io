@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 3: Modern Contrast & Earthy Comfort
-  text: "#000000"         # Strong black text for ultimate readability and a bold statement.
-  border: "#b7a7a9"       # The muted dusty rose/taupe makes for gentle, sophisticated separators.
-  link: "#91766e"         # Your warm, rich brown is a lovely, inviting color for links.
-  highlight: "#91766e"    # Using the same warm brown for highlights keeps the theme cohesive and elegant.
-  background: "#ffffff"   # Pure white for a clean, bright main background.
-  light_background: "#f6ece3" # The light warm beige for subtle shifts between sections, adding warmth.
+colors: # Palette 4: Sun-Kissed Desert
+  text: "#584738"         # The dark earthy brown provides excellent readability on light backgrounds.
+  border: "#aaa396"       # The muted warm grey/olive works as a soft, harmonious border color.
+  link: "#b59e7d"         # Your muted sandy tan is a gentle, inviting color for links.
+  highlight: "#cec1a8"    # The light, warm beige offers a subtle yet effective highlight.
+  background: "#f1eada"   # The very light cream is your soft, inviting main background.
+  light_background: "#cec1a8" # The light, warm beige for alternating sections, providing gentle depth.
   
 # A few examples. 
 basic theme:
@@ -210,6 +210,14 @@ Palette 2 Cool Breeze & Mountain Peaks (White BG with Nude accent and a hint of 
   highlight: "#567c8d"    # Reusing the medium blue-grey provides a consistent, calming highlight for interactions.
   background: "#ffffff"   # A crisp pure white for your primary background, offering maximum clarity.
   light_background: "#f5efeb" # The very light, warm off-white gives a subtle, inviting shift for sections.
+
+Palette 3 Modern Contrast & Earthy Comfort (very similar to above):
+  text: "#000000"         # Strong black text for ultimate readability and a bold statement.
+  border: "#b7a7a9"       # The muted dusty rose/taupe makes for gentle, sophisticated separators.
+  link: "#91766e"         # Your warm, rich brown is a lovely, inviting color for links.
+  highlight: "#91766e"    # Using the same warm brown for highlights keeps the theme cohesive and elegant.
+  background: "#ffffff"   # Pure white for a clean, bright main background.
+  light_background: "#f6ece3" # The light warm beige for subtle shifts between sections, adding warmth.
 
 
   custom1 theme:
