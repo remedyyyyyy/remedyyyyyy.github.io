@@ -90,14 +90,14 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 8: Gentle Lavender & Sky (Pastel!)
-  text: "#0b1957"         # The very dark navy for strong, readable text
-  border: "#e9f1ff"       # The very light pastel blue for ultra-soft borders
-  link: "#625d8c"         # The medium lavender-blue for gentle, clickable links
-  highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight
-  background: "#f7f4ed"   # The soft off-white/cream for the main background
-  light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
-  
+colors: # Palette 9: Sunny Meadow (Fun & Vibrant!)
+  text: "#8e9545"         # The muted olive green for readable text on bright backgrounds
+  border: "#fffcf5"       # Almost white for nearly invisible, clean borders
+  link: "#b0e952"         # The bright lime green for energetic links!
+  highlight: "#f7f375"    # The bright lemon yellow for super vibrant highlights (or vice versa with link)
+  background: "#fffcf5"   # The almost pure white for the main background
+  light_background: "#dfaea1" # The light terracotta/peach for soft, warm alternating sections
+
 # A few examples. 
 basic theme:
   text: "#1a1c20"
@@ -162,6 +162,15 @@ lemon theme:
   highlight: "#ffb800"
   background: "#fffdf5"
   light_background: "#fff9e6"
+
+Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purple) :
+  text: "#0b1957"         # The very dark navy for strong, readable text
+  border: "#e9f1ff"       # The very light pastel blue for ultra-soft borders
+  link: "#625d8c"         # The medium lavender-blue for gentle, clickable links
+  highlight: "#d2b3db"    # The soft pastel purple for a lovely, subtle highlight
+  background: "#f7f4ed"   # The soft off-white/cream for the main background
+  light_background: "#e9f1ff" # The very light pastel blue for alternating sections, super soft
+  
 
   pink theme:
   text: "#2d2d2d"
