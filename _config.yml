@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 10: Bold Contrast & Energy
-  text: "#2b124c"         # The dark purple-blue for strong, readable text
-  border: "#fbe4d8"       # The very light peach for soft, contrasting borders
-  link: "#8c414c"         # The dark muted red for rich links
-  highlight: "#ff002c"    # The bright, pure red for an incredibly vibrant highlight!
-  background: "#fbe4d8"   # The very light peach for the main background
-  light_background: "#ffffff" # Pure white for alternating sections, sharp contrast
+colors: # Palette 1: Soft Autumn Glow
+  text: "#545454"         # A versatile medium dark grey, providing gentle contrast for text.
+  border: "#ced1d4"       # A cool, light grey for subtle and clean lines and separators.
+  link: "#bd9e89"         # Your muted warm brown, a sophisticated color for clickable links.
+  highlight: "#e4c9b2"    # The soft peach/beige works as a gentle highlight, perfect for buttons or accents.
+  background: "#faede0"   # Your lightest, warmest tone for the main backdrop, very soft on the eyes.
+  light_background: "#f1ece5" # A slightly deeper, warm off-white for alternating sections, creating subtle depth.
   
 # A few examples. 
 basic theme:
@@ -178,6 +178,14 @@ Palette 8 Gentle Lavender & Sky (Pastel!, Cream BG with accent of blue and purpl
   highlight: "#ff4d6d"
   background: "#fff8f8"
   light_background: "#fff5f6"
+
+Palette 10 Bold Contrast & Energy (Red-based/ muted red) :
+  text: "#2b124c"         # The dark purple-blue for strong, readable text
+  border: "#fbe4d8"       # The very light peach for soft, contrasting borders
+  link: "#8c414c"         # The dark muted red for rich links
+  highlight: "#ff002c"    # The bright, pure red for an incredibly vibrant highlight!
+  background: "#fbe4d8"   # The very light peach for the main background
+  light_background: "#ffffff" # Pure white for alternating sections, sharp contrast
 
 Warm & Inviting Theme :
   text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
