@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Warm & Inviting Theme
-  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
-  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
-  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
-  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
-  background: "#FBF8F3"  # A very soft, warm off-white background
-  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
+colors: # Fresh & Modern Theme
+  text: "#333d47"        # A soft charcoal, easy to read
+  border: "#e0e7eb"      # A light, clean grey for subtle lines
+  link: "#3478B2"        # A calming, professional blue
+  highlight: "#2e7d32"   # A deep, subtle green for accents
+  background: "#ffffff"  # Pure white for crispness
+  light_background: "#f8f9fa" # A very subtle off-white, almost imperceptible but adds depth
   
 # A few examples. 
 basic theme:
@@ -122,6 +122,14 @@ Clean & Dynamic Theme (almost like basic with a hint of red)) :
   highlight: "#e74c3c"   # A vibrant, energetic red for highlights/attention
   background: "#ffffff"  # Pure white for a sharp contrast
   light_background: "#f6f8fa" # A very subtle cool off-white
+
+Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green): 
+  text: "#212121"        # A strong, almost black for excellent readability
+  border: "#ECEFF1"      # A very light, crisp grey for clean lines
+  link: "#FF5722"        # A bold, vibrant orange for links that pop!
+  highlight: "#4CAF50"   # A fresh, bright green for accents
+  background: "#ffffff"  # Pure white for maximum contrast
+  light_background: "#F5F5F5" # A subtle, light grey for section breaks
   
   mint theme:
   text: "#2c3333"
@@ -138,15 +146,7 @@ Clean & Dynamic Theme (almost like basic with a hint of red)) :
   highlight: "#B9E1DD"   # A slightly lighter, minty highlight
   background: "#F2F7FA"  # A very light, almost white, cool background
   light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
-
-Warm & Inviting Theme (Almost same as Mint/Greenish) :
-  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
-  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
-  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
-  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
-  background: "#FBF8F3"  # A very soft, warm off-white background
-  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
-  
+ 
 lemon theme:
   text: "#2d2926"
   border: "#f7f3e3"
@@ -163,13 +163,13 @@ lemon theme:
   background: "#fff8f8"
   light_background: "#fff5f6"
 
-Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green): 
-  text: "#212121"        # A strong, almost black for excellent readability
-  border: "#ECEFF1"      # A very light, crisp grey for clean lines
-  link: "#FF5722"        # A bold, vibrant orange for links that pop!
-  highlight: "#4CAF50"   # A fresh, bright green for accents
-  background: "#ffffff"  # Pure white for maximum contrast
-  light_background: "#F5F5F5" # A subtle, light grey for section breaks
+Warm & Inviting Theme :
+  text: "#4F4A45"        # A warm, deep brown-grey for excellent readability
+  border: "#EAD7C2"      # A soft, light beige-brown for gentle separations
+  link: "#7F553B"        # A rich, inviting terra-cotta/brown link color
+  highlight: "#A1826A"   # A slightly lighter, warm brown for highlights
+  background: "#FBF8F3"  # A very soft, warm off-white background
+  light_background: "#F5F0EC" # A slightly deeper warm off-white for sections
 
   custom1 theme:
   text: "#545454"
