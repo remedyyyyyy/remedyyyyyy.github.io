@@ -95,7 +95,7 @@ colors: # Palette 9: Vibrant Punch & Calm Bases
   text: "#374375"         # The dark, muted blue-purple provides strong, elegant text.
   border: "#babde2"       # The light, muted lavender-blue for soft, clean borders.
   link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
-  highlight: "#dfaea1"    # The light, soft peach for a warm, gentle highlight.
+  highlight: "#e07b60"    # The light, soft peach for a warm, gentle highlight.
   background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
   light_background: "#cdd0f7" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
   
