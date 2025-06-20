@@ -90,14 +90,14 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Energetic & Playful Theme
-  text: "#212121"        # A strong, almost black for excellent readability
-  border: "#ECEFF1"      # A very light, crisp grey for clean lines
-  link: "#FF5722"        # A bold, vibrant orange for links that pop!
-  highlight: "#4CAF50"   # A fresh, bright green for accents
-  background: "#ffffff"  # Pure white for maximum contrast
-  light_background: "#F5F5F5" # A subtle, light grey for section breaks
-
+colors: # Pastel Dream Theme
+  text: "#5E6C7D"        # A muted, deep blue-grey for readability
+  border: "#D3DBE2"      # A very light, soft grey-blue for subtle dividers
+  link: "#A8DADC"        # A gentle, soft teal for links
+  highlight: "#B9E1DD"   # A slightly lighter, minty highlight
+  background: "#F2F7FA"  # A very light, almost white, cool background
+  light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
+  
 # A few examples. 
 basic theme:
   text: "#1a1c20"
@@ -163,7 +163,7 @@ XPastel Dream Theme (Similar to Warm, earthy tone but the combo ;link isnt great
   background: "#F2F7FA"  # A very light, almost white, cool background
   light_background: "#E8EFF4" # A slightly deeper, soft blue-grey for sections
 
-Energetic & Playful Theme : 
+Energetic & Playful Theme (Almost like basic, very clean with red pop and a hint of green): 
   text: "#212121"        # A strong, almost black for excellent readability
   border: "#ECEFF1"      # A very light, crisp grey for clean lines
   link: "#FF5722"        # A bold, vibrant orange for links that pop!
