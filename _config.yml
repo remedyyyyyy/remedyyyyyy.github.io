@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 6: Tropical Sunset Energy (Fun & Vibrant!)
-  text: "#543787"         # The deep, rich purple for bold, striking text.
-  border: "#d4e0f0"       # The very light blue-grey for crisp, clean dividers.
-  link: "#7cb8c0"         # Your medium, cool teal makes for engaging, clickable links.
-  highlight: "#feb737"    # The bright, warm orange is a super energetic highlight that truly pops!
-  background: "#ffebae"   # The light, warm yellow/peach for a cheerful main background.
-  light_background: "#a7b5fe" # The light, vibrant purple-blue for alternating sections, adding playful contrast.
+colors: # Palette 7: Forest Depths & Soft Blooms
+  text: "#0c2c47"         # The very dark, deep blue-green for clear and strong text.
+  border: "#efeae6"       # The very light, warm grey creates subtle, harmonious borders.
+  link: "#2d5652"         # The dark, muted teal/green for distinctive links.
+  highlight: "#e2a54d"    # Your vibrant orange/gold is a fantastic, eye-catching highlight!
+  background: "#e4f2ea"   # The very light, gentle green for a fresh and airy main background.
+  light_background: "#efeae6" # The very light, warm grey for alternating sections, providing a soft shift.
   
 # A few examples. 
 basic theme:
