@@ -90,13 +90,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 4: Desert Bloom
-  text: "#584738"         # The dark brown for strong, earthy text
-  border: "#d2c19e"       # The medium beige for soft, natural borders
-  link: "#b59e7d"         # The muted desert tan for links, subtle and warm
-  highlight: "#ccc148"    # The mustard yellow for a striking, warm highlight!
-  background: "#f1eade"   # The very light cream for the main background
-  light_background: "#d2c19e" # The medium beige for alternating sections
+colors: # Palette 6: Vibrant Sunset & Twilight
+  text: "#543787"         # The deep purple for strong, vibrant text
+  border: "#d4e0f0"       # The very light blue-grey for clean borders
+  link: "#7cb490"         # The medium teal/green for clickable links
+  highlight: "#feb737"    # The bright orange/yellow for a high-energy highlight!
+  background: "#ffffff"   # Pure white for main background (or try #d4e0f0)
+  light_background: "#f7b8ae" # The light coral/peach for alternating sections, soft warmth
   
 # A few examples. 
 basic theme:
