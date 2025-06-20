@@ -4,8 +4,8 @@
     <div class="group">
         <div class="text">
             <h2>
-                I'm {{ site.name | split: ' ' | first }} {{ site.name | split: ' ' | last }}
-                {% if site.external-links %}
+                I'm {{ site.short_first_name }} {{ site.name | split: ' ' | last }}
+                {% if site.external-links %}                
                 <span class="external-links">
                     {% assign platforms = "linkedin,email,x-twitter,github,stackoverflow,discord,medium,threads,bluesky,instagram,youtube" | split: "," %}
                     {% for platform in platforms %}
