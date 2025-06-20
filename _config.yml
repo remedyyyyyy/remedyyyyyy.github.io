@@ -91,13 +91,13 @@ formspree-key:   https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 9: Vibrant Punch & Calm Bases
-  text: "#374375"         # The dark, muted blue-purple provides strong, elegant text.
-  border: "#babde2"       # The light, muted lavender-blue for soft, clean borders.
-  link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
-  highlight: "#ba4020"    # The light, soft peach for a warm, gentle highlight.
-  background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
-  light_background: "#cdd0f7" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
+colors: # Palette 10: Rich Jewel Tones & Contrast
+  text: "#190019"         # The deepest purple/black for maximum impact and readability on lighter backgrounds.
+  border: "#dfb6b2"       # The light, dusty rose for soft, elegant borders.
+  link: "#2b124c"         # Your dark, rich purple for clickable links, luxurious and clear.
+  highlight: "#854f6c"    # The muted plum/wine for a sophisticated highlight.
+  background: "#fbe4d8"   # The very light, warm peach for a soft, inviting main background.
+  light_background: "#dfb6b2" # The light, dusty rose for alternating sections, creating a beautiful shift.
   
 # A few examples. 
 basic theme:
@@ -227,6 +227,15 @@ Palette 5 Vintage Serenity (Nice warm brownish tone):
   highlight: "#bba58f"    # Your soft, warm beige/greige works as a gentle, inviting highlight.
   background: "#efefe9"   # The very light, off-white for a serene main background.
   light_background: "#e8d9cd" # The light, dusty rose/cream provides a soft, warm shift for sections.
+
+ Palette 9 Vibrant Punch & Calm Bases (kinda digging this! cream BG with blue and brown accent) : 
+  text: "#374375"         # The dark, muted blue-purple provides strong, elegant text.
+  border: "#babde2"       # The light, muted lavender-blue for soft, clean borders.
+  link: "#895159"         # Your dark, muted berry red makes for distinct and inviting links.
+  highlight: "#ba4020"    # The light, soft peach for a warm, gentle highlight.
+  background: "#fffcf5"   # The almost pure white for a crisp, bright main background.
+  light_background: "#cdd0f7" # The light, muted lavender-blue for alternating sections, adding a touch of calm.
+  
 
 Palette 8 Dreamy Lavender Sunset (Pastel! Cream BG, with purple accent and blue) : 
   text: "#0b1957"         # The very dark navy ensures excellent readability on light pastel backgrounds.
