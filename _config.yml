@@ -93,7 +93,7 @@ colors: # Your new custom palette!
   border: "#effdff"           # Very light border color (light blue/cyan)
   link: "#00fefe"             # Link color (medium purple/blue)
   highlight: "#7a8ad8"        # Highlight/accent color (very similar medium purple/blue)
-  background: "#fffcf5"       # Main site background (very light warm white)
+  background: "#f7f4ed"       # Main site background (very light warm white)
   light_background: "#f8fce9" # Light background for sections/cards (pale yellow/greenish tint)
 
 
