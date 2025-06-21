@@ -89,12 +89,12 @@ formspree-key: https://formspree.io/f/mkgbzlqa
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # soothing blue-pastel theme
-  text: "#2e2e3a"              # Slightly softened dark gray for readability
-  border: "#d0d3e0"            # Light gray-blue for subtle borders
-  link: "#6c7af2"              # Muted lavender-blue for links
-  highlight: "#3f49d1"         # Deeper bluish-violet for hover or highlight effects
-  background: "#f7f8fc"        # Very light lavender-gray for clean minimal background
-  light_background: "#dce8f0"  # Muted pastel blue-green for cards or sections
+  text: "#1A1A1A"             # Very dark grey, almost black, for main text
+  border: "#E6E6E6"           # Light grey for subtle borders/dividers
+  link: "#5D4FA8"             # Dark purple/blue for links
+  highlight: "#99EEF2"        # Light cyan for highlights/accents
+  background: "#5D4FA8"       # Dark purple/blue for the main site background
+  light_background: "#FFFADE"  # Cream/off-white for cards or alternating sections
 
 # A few examples.
 basic theme:
