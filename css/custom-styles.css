@@ -1,85 +1,106 @@
+/* Custom properties (CSS variables) for your new theme */
+:root {
+  /* These colors are based on your _config.yml theme, but defined here for custom CSS usage */
+  --text-dark: #1A1A1A; /* Used for project titles */
+  --text-medium: #666666; /* Used for project descriptions */
+  --text-light: #FFFFFF; /* White, used for button text */
+
+  --button-primary: #7a8ad8; /* The purple color for your "Read more" button */
+  --button-primary-hover: #6C74BF; /* A slightly darker purple for the button's hover effect */
+
+  --card-background: #FFFFFF; /* Pure white for project cards */
+  --card-shadow-light: rgba(0, 0, 0, 0.05); /* Light shadow for cards */
+  --card-shadow-hover: rgba(0, 0, 0, 0.1); /* Slightly stronger shadow on hover */
+
+  --skill-tag-bg: #E6E6E6; /* Light grey background for skill tags */
+  --skill-tag-text: #444444; /* Darker grey text for skill tags */
+}
+
 /* Custom styles for Project Cards - overrides default template styles */
 
 .project-card {
-  background: #f9f9f9; /* Very light grey background */
-  border-radius: 16px; /* Slightly more rounded corners */
+  background: var(--card-background); /* Uses the white defined above */
+  border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06); /* Even lighter shadow */
-  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 2px 8px var(--card-shadow-light); /* Uses light shadow variable */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   display: flex;
   flex-direction: column;
   height: 100%;
 }
 
 .project-card:hover {
-  transform: translateY(-4px); /* Smaller lift on hover */
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.10); /* Slightly stronger hover shadow */
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px var(--card-shadow-hover); /* Uses hover shadow variable */
 }
 
 .project-card img {
   width: 100%;
-  height: 220px; /* Adjusted image height */
+  height: 180px; /* Adjusted image height */
   object-fit: cover;
   display: block;
 }
 
 .project-content-wrapper {
-  padding: 20px; /* Reduced padding */
+  padding: 20px 25px 25px; /* Padding for content inside card */
   display: flex;
   flex-direction: column;
   flex-grow: 1;
 }
 
 .project-title {
-  font-size: 1.6em; /* Slightly smaller title */
-  font-weight: 600; /* Less bold */
-  margin: 0 0 8px; /* Reduced margin */
-  line-height: 1.2;
-  color: #222222; /* Darker grey */
+  font-family: 'Poppins', sans-serif; /* Ensures Poppins font */
+  font-size: 1.7em;
+  font-weight: 600;
+  margin: 0 0 8px;
+  line-height: 1.3;
+  color: var(--text-dark); /* Uses dark text variable */
 }
 
 .project-skills {
-  margin: 0 0 12px; /* Reduced margin */
+  margin: 0 0 15px;
   display: flex;
   flex-wrap: wrap;
-  gap: 6px; /* Smaller gap */
+  gap: 7px;
 }
 
 .project-skills .skill {
   display: inline-block;
-  background: #f0f0f0; /* Lighter background for tags */
-  color: #666; /* Medium grey for tags */
+  background: var(--skill-tag-bg); /* Uses skill tag background variable */
+  color: var(--skill-tag-text); /* Uses skill tag text variable */
   font-size: 0.8em;
-  padding: 5px 10px; /* Smaller padding */
-  border-radius: 18px; /* More rounded tags */
-  font-weight: 400; /* Lighter weight */
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: 500;
+  white-space: nowrap;
 }
 
 .project-description {
-  font-size: 0.95em; /* Slightly smaller description */
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.95em;
   line-height: 1.6;
-  color: #555555; /* Medium grey */
-  margin-bottom: 15px; /* Reduced margin */
+  color: var(--text-medium); /* Uses medium text variable */
+  margin-bottom: 20px;
   flex-grow: 1;
 }
 
 .read-more {
   display: inline-block;
   align-self: flex-start;
-  padding: 10px 20px; /* Smaller button */
-  background: #007bff;
-  color: white;
+  padding: 12px 25px;
+  background: var(--button-primary); /* Uses purple button color variable */
+  color: var(--text-light); /* Uses white text variable */
   text-align: center;
   text-decoration: none;
   border: none;
-  border-radius: 6px; /* More rounded button */
-  font-size: 0.9em;
-  font-weight: 500;
+  border-radius: 8px;
+  font-size: 0.95em;
+  font-weight: 600;
   cursor: pointer;
   transition: background 0.2s ease-in-out, transform 0.1s ease-in-out;
 }
 
 .read-more:hover {
-  background: #0056b3;
-  transform: translateY(-2px);
+  background: var(--button-primary-hover); /* Uses darker purple hover color variable */
+  transform: translateY(-1px);
 }
