@@ -94,7 +94,7 @@ colors: # Your new custom palette!
   link: "#00fefe"             # Link color (medium purple/blue)
   highlight: "#7a8ad8"        # Highlight/accent color (very similar medium purple/blue)
   background: "#fffcf5"       # Main site background (very light warm white)
-  light_background: "#7a8ad8" # Light background for sections/cards (pale yellow/greenish tint)
+  light_background: "#d2b3db" # Light background for sections/cards (pale yellow/greenish tint)
 
 
 soothing blue-pastel theme (skills bg and skills text not great combo): 
