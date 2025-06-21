@@ -5,8 +5,8 @@
   --text-medium: #666666; /* Used for project descriptions */
   --text-light: #FFFFFF; /* White, used for button text */
 
-  --button-primary: #7a8ad8; /* The purple color for your "Read more" button */
-  --button-primary-hover: #6C74BF; /* A slightly darker purple for the button's hover effect */
+  --button-primary: #5E35B1; /* New, deeper purple for the button */
+  --button-primary-hover: #4527A0; /* New, darker purple for the hover effect */
 
   --card-background: #FFFFFF; /* Pure white for project cards */
   --card-shadow-light: rgba(0, 0, 0, 0.05); /* Light shadow for cards */
