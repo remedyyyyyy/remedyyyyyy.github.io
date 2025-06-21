@@ -89,12 +89,12 @@ formspree-key: https://formspree.io/f/mkgbzlqa
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
 colors: # Your new custom palette!
-  text: "#000000"             # Main text color (pure black)
+  text: "#7a8ad8"             # Main text color (pure black)
   border: "#effdff"           # Very light border color (light blue/cyan)
   link: "#00fefe"             # Link color (medium purple/blue)
   highlight: "#7a8ad8"        # Highlight/accent color (very similar medium purple/blue)
   background: "#fffcf5"       # Main site background (very light warm white)
-  light_background: "#a7b5fe" # Light background for sections/cards (pale yellow/greenish tint)
+  light_background: "#babde2" # Light background for sections/cards (pale yellow/greenish tint)
 
 
 soothing blue-pastel theme (skills bg and skills text not great combo): 
