@@ -104,3 +104,54 @@
   background: var(--button-primary-hover); /* Uses darker purple hover color variable */
   transform: translateY(-1px);
 }
+
+
+/* Custom styles for Hero Section Layout (Desktop Mode) */
+
+/* General container adjustments for both mobile and desktop */
+.hero-content-container {
+    /* Ensures the container itself has adequate top/bottom padding */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* Styles specifically for desktop screens (min-width: 768px and above) */
+@media (min-width: 768px) {
+    .hero-content-container {
+        flex-direction: row; /* Ensures side-by-side on desktop */
+        align-items: flex-start; /* Aligns content to the top */
+        justify-content: space-between; /* Distributes space between text and image */
+    }
+
+    .hero-text-content {
+        flex: 2; /* Gives the text content twice as much space as the image */
+        padding-right: 40px; /* Adds space between text and image */
+        text-align: left; /* Ensures text is left-aligned */
+        max-width: 65%; /* Limits the text content's maximum width */
+    }
+
+    .hero-image-content {
+        flex: 1; /* Gives the image content one part of the space */
+        display: flex;
+        justify-content: center; /* Centers the image horizontally within its column */
+        align-items: flex-start; /* Aligns the image to the top of its column */
+        max-width: 35%; /* Limits the image column's maximum width */
+    }
+
+    /* Adjust button layout within the hero section */
+    .hero-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px; /* Space between buttons */
+        margin-top: 25px; /* Space below description before buttons */
+        justify-content: flex-start; /* Aligns buttons to the left */
+    }
+
+    /* Ensure profile image is circular and sized appropriately */
+    .hero-image-content img {
+        max-width: 250px; /* Sets a max size for the profile image */
+        height: auto;
+        border-radius: 50%; /* Ensures it's perfectly circular */
+        object-fit: cover; /* Ensures image fills its space without distortion */
+    }
+}
