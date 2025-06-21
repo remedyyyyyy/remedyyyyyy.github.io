@@ -88,13 +88,13 @@ formspree-key: https://formspree.io/f/mkgbzlqa
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the samne.
-colors: # Palette 10: Rich Jewel Tones & Contrast
-  text: "#190019"            # The deepest purple/black for maximum impact and readability on lighter backgrounds.
-  border: "#dfb6b2"        # The light, dusty rose for soft, elegant borders.
-  link: "#2b124c"            # Your dark, rich purple for clickable links, luxurious and clear.
-  highlight: "#854f6c"    # The muted plum/wine for a sophisticated highlight.
-  background: "#fbe4d8"    # The very light, warm peach for a soft, inviting main background.
-  light_background: "#dfb6b2" # The light, dusty rose for alternating sections, creating a beautiful shift.
+colors: # soothing blue-pastel theme
+  text: "#2e2e3a"              # Slightly softened dark gray for readability
+  border: "#d0d3e0"            # Light gray-blue for subtle borders
+  link: "#6c7af2"              # Muted lavender-blue for links
+  highlight: "#3f49d1"         # Deeper bluish-violet for hover or highlight effects
+  background: "#f7f8fc"        # Very light lavender-gray for clean minimal background
+  light_background: "#dce8f0"  # Muted pastel blue-green for cards or sections
 
 # A few examples.
 basic theme:
